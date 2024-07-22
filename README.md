@@ -49,21 +49,6 @@ I am Samuel-Adrian Curcanu, a passionate Computer Science student at the Technic
 *2021*
 - High School Diploma in Mathematics and Informatics
 
-## 📜 Certifications
-
-- IC3 GLOBAL STANDARD G4, March 2020
-
-## 🛠️ Skills
-
-### Backend
-- Java, C, SQL, C++, Python, VHDL, SQL, Git
-
-### Frontend
-- React JS, CSS, UI/UX Design
-
-### Concepts
-- Object-Oriented Programming (OOP), Data Structures, Algorithms, Digital System Design, Simulation, Assembly (Low-Level Programming, Microcontroller Programming), Learning Agility, Rapid Learning
-
 ## 📞 Contact Me
 
 - **Email:** [curcanusamuel@gmail.com](mailto:curcanusamuel@gmail.com)
