@@ -16,14 +16,17 @@ I am Samuel-Adrian Curcanu, a passionate Computer Science student at the Technic
 - Generated reports and analyzed data.
 - Collaborated with teams to ensure database functionality and resolve issues.
 
+
+
+## 💡 Projects
+
 ### Photo Recognition AI Developer
 *April 2024 - March 2024*
 - Developed a Python-based photo recognition AI using deep learning to identify and classify objects in images, with a focus on distinguishing between various sports.
 - Implemented features for image preprocessing, model training, and real-time recognition.
 - Highlighted the capabilities of modern AI for security, tagging, and automated image organization.
 
-## 💡 Projects
-
+  
 ### Spring-Based Fitness Center Management Website
 **University Project, March 2024 - April 2024**
 - Developed a comprehensive Spring-based website for managing a fitness center.
