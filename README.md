@@ -4,20 +4,6 @@
 
 I am Samuel-Adrian Curcanu, a passionate Computer Science student at the Technical University of Cluj-Napoca with a strong interest in backend development, AI, and software engineering. Below, you'll find a summary of my professional experience, projects, education, and skills.
 
-## 📜 Work Experience
-
-### Intern FileMaker Developer
-**Integrated Data Solutions, Cluj-Napoca**  
-*Summer 2024*
-- Designed and developed custom FileMaker databases.
-- Performed data entry and validation.
-- Created scripts to automate workflows.
-- Provided user support and created documentation.
-- Generated reports and analyzed data.
-- Collaborated with teams to ensure database functionality and resolve issues.
-
-
-
 ## 💡 Projects
 
 ### Photo Recognition AI Developer
@@ -39,15 +25,6 @@ I am Samuel-Adrian Curcanu, a passionate Computer Science student at the Technic
 - Supported secure user authentication and offered an intuitive interface.
 - Ideal for enhancing communication in personal and professional settings.
 
-## 🎓 Education
-
-### Technical University of Cluj-Napoca, Cluj-Napoca, Cluj
-*2021 - Present*
-- Bachelor's Degree in Computers and Information Science
-
-### National College of Informatics "Carmen Sylva", Petroșani, HD
-*2021*
-- High School Diploma in Mathematics and Informatics
 
 ## 📞 Contact Me
 
