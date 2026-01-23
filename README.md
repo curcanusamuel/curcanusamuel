@@ -1,40 +1,64 @@
-# Samuel-Adrian Curcanu's GitHub README
+# Samuel-Adrian Curcanu
 
-## 👋 Welcome to My GitHub Profile!
+**Software Developer | Backend Systems | Automation | FileMaker & Web Integrations**
 
-I am Samuel-Adrian Curcanu, a junior software developer with a strong background in backend development, system design, and computer graphics. I am currently pursuing a Bachelor's degree in Computers and Information Science at the Technical University of Cluj-Napoca. My passion lies in developing efficient and scalable software solutions, and I am always eager to learn and grow in the field of software engineering. Below, you'll find a summary of my professional experience, projects, education, and skills.
+Software developer based in Cluj-Napoca, currently finishing a Bachelor's degree in Computers and Information Science at the Technical University of Cluj-Napoca.
 
-## 💡 Projects
+I focus on building reliable backend systems, designing efficient database architectures, automating business workflows, and integrating modern web technologies with FileMaker platforms used in production environments for international clients.
 
-### Clinic Management Software (FileMaker) - Bachelor's Thesis  
-**November 2024 – Ongoing**  
-- Developed a comprehensive clinic management system in FileMaker, including patient management, scheduling, billing, and staff operations.  
-- Optimized database structures and implemented automated workflows to improve operational efficiency.  
-- Gained experience in system design, database management, and process automation, which are valuable for DevOps and Linux environments.
+---
 
-### Full-Stack Web Application (React, Spring, MySQL, Docker)  
-**October 2024 - December 2024**  
-- Built a full-stack web application using React (frontend), Spring (backend), and MySQL (database).  
-- Dockerized the application to ensure portability and scalability with features like load balancing and reverse proxy.  
-- Implemented role-based access control for admin and user accounts and secured the app with JWT tokens.  
-- Applied microservices architecture for scalability and isolation of processes.
+## 💼 Professional Experience
 
-### 3D Object Scene Presentation (OpenGL, GLFW, GLM)  
-**May 2024 – June 2024**  
-- Developed a photorealistic 3D scene presentation using OpenGL, GLFW, and GLM, with advanced rendering techniques.  
-- Modeled 3D objects using Blender and applied realistic lighting, textures, reflections, shadows, and refractions.  
-- Gained hands-on experience in computer graphics and rendering algorithms.
+**Software Developer — Integrated Data Solutions**  
+*Oct 2024 – Present*
 
-### Fitness Center Management Website (Spring-based)  
-**March 2024 – April 2024**  
-- Developed a Spring-based website for managing a fitness center with features like user registration, class scheduling, and a booking system.  
-- Integrated role-based access control and secure authentication, and designed a responsive UI for both clients and staff.
+- Develop and optimize clinic management systems for clients in USA and Germany
+- Design advanced FileMaker database structures and automation scripts
+- Integrate AI/LLM agents into production workflows
+- Build and extend web interfaces with Angular and modern web technologies
+- Create automations using n8n and JavaScript to connect external services
 
-## 📞 Contact Me
+---
 
-- **Email:** [curcanusamuel@gmail.com](mailto:curcanusamuel@gmail.com)  
-- **Phone:** +40 728 594 961  
-- **LinkedIn:** [Samuel-Adrian Curcanu](https://www.linkedin.com/in/samuel-adrian-curcanu-b529b3261/)  
-- **GitHub:** [curcanusamuel](https://github.com/curcanusamuel)
+## 🚀 Selected Projects
 
-Feel free to reach out if you have any questions, opportunities, or just want to connect! Thank you for visiting my profile!
+### 🏥 Clinic Management System (Bachelor’s Thesis)
+Comprehensive FileMaker-based system for patient management, scheduling, billing, and workflow automation. Focused on system design and database optimization.
+
+### 🌐 Full-Stack Device Management & User Portal
+**React • Spring • MySQL • Docker**
+
+- JWT authentication & role-based access
+- Reverse proxy, load balancing, Dockerized deployment
+- Real-time chat using WebSocket
+- Designed using microservices principles
+
+### 🏢 Tempora — Workforce Management System
+Internal business software combining FileMaker desktop app with web integration for time tracking, reporting, and workflow automation.
+
+### 🎮 3D Scene Rendering (OpenGL)
+Photorealistic 3D scene with advanced lighting, shadows, reflections, and Blender-modeled assets.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Java, C, C++, Python, SQL, JavaScript  
+**Frameworks & Tools:** Spring, React, Angular, Docker, FileMaker, n8n, Git  
+**Concepts:** OOP, System Design, Database Architecture, Automation, Microservices, Authentication
+
+---
+
+## 🎓 Education
+
+**Technical University of Cluj-Napoca**  
+B.Sc. in Computers and Information Science (2021 – 2025)
+
+---
+
+## 📫 Contact
+
+- Email: curcanusamuel@gmail.com
+- LinkedIn: https://linkedin.com/in/samuel-adrian-curcanu-b529b3261
+- GitHub: https://github.com/curcanusamuel
