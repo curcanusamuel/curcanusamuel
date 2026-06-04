@@ -23,16 +23,18 @@ I focus on building reliable backend systems, designing efficient database archi
 
 ## 🚀 Selected Projects
 
-### 🏥 Clinic Management System (Bachelor’s Thesis)
-Comprehensive FileMaker-based system for patient management, scheduling, billing, and workflow automation. Focused on system design and database optimization.
+### 🏥 IDS Clinic — Medical Management Platform
+*React · TypeScript · Node.js · PostgreSQL · AWS · Electron · Cloudflare Workers*
 
-### 🌐 Full-Stack Device Management & User Portal
-**React • Spring • MySQL • Docker**
+Full-stack clinic management system built for production use with international healthcare clients. Covers the full patient journey from registration to billing.
 
-- JWT authentication & role-based access
-- Reverse proxy, load balancing, Dockerized deployment
-- Real-time chat using WebSocket
-- Designed using microservices principles
+- **Frontend:** React 18 + TypeScript SPA with 13 feature modules — patient records, appointments scheduling, medical letters, surgical reports, stomatology, ward management, media history, pricing and admin dashboard; deployed on Cloudflare Workers and packaged as a cross-platform desktop app via Electron
+- **Backend:** Node.js + Express + TypeScript REST API with session-based auth (HttpOnly cookies), role-based access control (DOCTOR / ADMIN), and rate limiting
+- **Database:** PostgreSQL on AWS RDS with cursor-based pagination for large patient datasets; credentials managed via AWS Secrets Manager
+- **File storage:** Client-to-S3 direct uploads using presigned POST URLs — server never proxies file data; supports images, videos and medical documents up to 100MB
+- **UX:** Fully responsive and mobile-optimised (iOS Safari + Android Chrome), multilingual (RO / EN / DE), Excel export, ApexCharts data visualisation
+
+---
 
 ### 🏢 Tempora — Workforce Management System
 Internal business software combining FileMaker desktop app with web integration for time tracking, reporting, and workflow automation.
@@ -44,8 +46,9 @@ Photorealistic 3D scene with advanced lighting, shadows, reflections, and Blende
 
 ## 🛠 Tech Stack
 
-**Languages:** Java, C, C++, Python, SQL, JavaScript  
-**Frameworks & Tools:** Spring, React, Angular, Docker, FileMaker, n8n, Git  
+**Languages:** Java, C, C++, Python, SQL, JavaScript, TypeScript  
+**Frameworks & Tools:** Spring, React, Angular, Node.js, Express, Docker, FileMaker, n8n, Git  
+**Cloud & Infra:** AWS (RDS, S3, Secrets Manager), Cloudflare Workers, Electron  
 **Concepts:** OOP, System Design, Database Architecture, Automation, Microservices, Authentication
 
 ---
