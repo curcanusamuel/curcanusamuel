@@ -34,8 +34,6 @@ Full-stack clinic management system built for production use with international 
 - **File storage:** Client-to-S3 direct uploads using presigned POST URLs — server never proxies file data; supports images, videos and medical documents up to 100MB
 - **UX:** Fully responsive and mobile-optimised (iOS Safari + Android Chrome), multilingual (RO / EN / DE), Excel export, ApexCharts data visualisation
 
----
-
 ### 🏢 Tempora — Workforce Management System
 Internal business software combining FileMaker desktop app with web integration for time tracking, reporting, and workflow automation.
 
