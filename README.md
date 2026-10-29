@@ -4,7 +4,7 @@
 
 I build production software that replaces or extends legacy FileMaker systems with modern web and desktop apps, for clinics in Romania and for business clients in Germany. Most of my work sits where domain rules meet the database: clinical workflows, national health-insurance reporting, working-time law, billing.
 
-B.Sc. student in Computers and Information Science at the Technical University of Cluj-Napoca.
+B.Sc. in Computers and Information Science, Technical University of Cluj-Napoca (2025).
 
 ---
 
@@ -48,12 +48,12 @@ Replacement for a large FileMaker clinic system, covering the patient's whole pa
 ### ⏱️ PROJEKT PRO — web time tracking (Germany)
 *Angular · NgRx · Angular Material · PWA · FileMaker*
 
-Time-tracking and project-accounting web app (*Webzeiterfassung*) for a German project-management product, backed by FileMaker.
+Web time-tracking and project-accounting app for a German project-management product used by architecture and engineering firms, with FileMaker as its data platform.
 
-- Built the **additional costs (Nebenkosten)** module end to end: UI, FileMaker CRUD, and handing costs over from project time to expenses.
-- Added **reports** (*Zeitnachweis*, *Monatsbericht*): custom titles, PDF generation and an in-app PDF preview.
-- Showed the result of the **German Working Time Act (ArbZG)** checks on the time clock, and wrote the FileMaker validation scripts behind them.
-- Fixed a **pdf.js security issue (CVE-2024-4367)** by rendering previews without `eval`.
+- Develop new modules and features in the **Angular** app (NgRx state, Angular Material UI), from the interface down to the data exchange with FileMaker.
+- Work on time recording, project costs and expenses, and the generated reports and PDFs.
+- Implement business rules on both sides, in the web app and in FileMaker scripts, including German working-time regulations.
+- Maintain the app: bug fixes, translations, and security and dependency updates.
 
 ### 📑 IDS SIUI Reporter — national health-insurance reporting
 *Node.js · Express · TypeScript · React · Tailwind · XML / XSD*
